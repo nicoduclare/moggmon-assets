@@ -4,7 +4,7 @@
   "complete3d": 151,
   "complete3dChibi": 151,
   "complete3dVoxel": 151,
-  "generatedAt": "2026-05-13T17:40:08.934Z",
+  "generatedAt": "2026-05-13T19:43:58.665Z",
   "items": [
     {
       "assets": {
@@ -507,8 +507,8 @@
           "label": "3D Voxel Model",
           "path": "models/gen1/005-block-toy-tripo-v25-standard-15k.glb",
           "role": "modelGlb",
-          "sizeBytes": 746692,
-          "sha256": "c785209cf6677a53604753073bb004b67c1a7c1760fe896ff4a6d79ba4134058",
+          "sizeBytes": 725152,
+          "sha256": "a3741a05e64ba88ec80cffda4af967d63bb671cf3e71b9183cfe74ac36fa72f7",
           "downloadName": "moggmon-005-modelGlb.glb"
         },
         "modelPreview": {
@@ -518,7 +518,7 @@
           "label": "3D Voxel Preview",
           "path": "models/gen1/005-block-toy-tripo-v25-standard-15k-preview.webp",
           "role": "modelPreview",
-          "sizeBytes": 20480,
+          "sizeBytes": 20254,
           "downloadName": "moggmon-005-modelPreview.webp"
         },
         "modelVerify": {
@@ -538,8 +538,8 @@
           "label": "3D Model",
           "path": "models-chibi/gen1/005-chibi-pet-tripo-v25-standard-15k.glb",
           "role": "chibiModelGlb",
-          "sizeBytes": 684248,
-          "sha256": "da77efd4f4bd88c308837f541c66943cbf64a583e578e081a42fe947f2bbe409",
+          "sizeBytes": 784272,
+          "sha256": "8f89ec0c35f5da35862fe665bd059caca58a6d161b4126c68315ca45926f4a82",
           "downloadName": "moggmon-005-chibiModelGlb.glb"
         },
         "chibiModelPreview": {
@@ -549,7 +549,7 @@
           "label": "3D Preview",
           "path": "models-chibi/gen1/005-chibi-pet-tripo-v25-standard-15k-preview.webp",
           "role": "chibiModelPreview",
-          "sizeBytes": 17828,
+          "sizeBytes": 24430,
           "downloadName": "moggmon-005-chibiModelPreview.webp"
         },
         "chibiModelVerify": {
@@ -559,7 +559,7 @@
           "label": "3D Verify JSON",
           "path": "models-chibi/gen1/005-chibi-pet-tripo-v25-standard-15k-verify.json",
           "role": "chibiModelVerify",
-          "sizeBytes": 1534,
+          "sizeBytes": 1529,
           "downloadName": "moggmon-005-chibiModelVerify.json"
         },
         "sprite": {
@@ -625,8 +625,8 @@
           "label": "3D Voxel Model",
           "path": "models/gen1/006-block-toy-tripo-v25-standard-15k.glb",
           "role": "modelGlb",
-          "sizeBytes": 779972,
-          "sha256": "52af862a4ae6841b1e27a25e6265968f229393c39a4807e702b17d912646cda8",
+          "sizeBytes": 759344,
+          "sha256": "585a5ed89727805b45ebb43a48d9ce754ade54cb496cd4bcc11feb7c8185d56e",
           "downloadName": "moggmon-006-modelGlb.glb"
         },
         "modelPreview": {
@@ -636,7 +636,7 @@
           "label": "3D Voxel Preview",
           "path": "models/gen1/006-block-toy-tripo-v25-standard-15k-preview.webp",
           "role": "modelPreview",
-          "sizeBytes": 19252,
+          "sizeBytes": 19292,
           "downloadName": "moggmon-006-modelPreview.webp"
         },
         "modelVerify": {
@@ -656,8 +656,8 @@
           "label": "3D Model",
           "path": "models-chibi/gen1/006-chibi-pet-tripo-v25-standard-15k.glb",
           "role": "chibiModelGlb",
-          "sizeBytes": 680076,
-          "sha256": "0b594e4e074d5b5623ce755bde38bcfe781386a3c50e89d4aca569363d459949",
+          "sizeBytes": 736632,
+          "sha256": "0b7793196aa4a91c51476caaf7258fc13ee68350f873fcfcfe00ffff5c9f7964",
           "downloadName": "moggmon-006-chibiModelGlb.glb"
         },
         "chibiModelPreview": {
@@ -667,7 +667,7 @@
           "label": "3D Preview",
           "path": "models-chibi/gen1/006-chibi-pet-tripo-v25-standard-15k-preview.webp",
           "role": "chibiModelPreview",
-          "sizeBytes": 20876,
+          "sizeBytes": 19414,
           "downloadName": "moggmon-006-chibiModelPreview.webp"
         },
         "chibiModelVerify": {
@@ -677,7 +677,7 @@
           "label": "3D Verify JSON",
           "path": "models-chibi/gen1/006-chibi-pet-tripo-v25-standard-15k-verify.json",
           "role": "chibiModelVerify",
-          "sizeBytes": 1534,
+          "sizeBytes": 1535,
           "downloadName": "moggmon-006-chibiModelVerify.json"
         },
         "sprite": {
