@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "dex": "020",
+  "verified_at": "2026-05-13T09:04:50.627Z",
+  "glb": {
+    "ok": true,
+    "verified_at": "2026-05-13T09:04:50.623Z",
+    "path": "020-chibi-pet-tripo-v25-standard-15k.glb",
+    "bytes": 786080,
+    "version": 2,
+    "declaredLength": 786080,
+    "asset": {
+      "generator": "https://tripo3d.ai",
+      "version": "2.0"
+    },
+    "counts": {
+      "scenes": 1,
+      "nodes": 1,
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1,
+      "images": 1,
+      "accessors": 4,
+      "vertices": 9517,
+      "triangles": 15000,
+      "textureSlots": 1
+    },
+    "hasTexture": true
+  },
+  "preview": {
+    "ok": true,
+    "path": "020-chibi-pet-tripo-v25-standard-15k-preview.webp",
+    "bytes": 18886,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "extrema": [
+      [
+        0,
+        208
+      ],
+      [
+        0,
+        217
+      ],
+      [
+        0,
+        220
+      ],
+      [
+        0,
+        255
+      ]
+    ],
+    "mean": [
+      39.13059616088867,
+      35.83115768432617,
+      32.54056167602539,
+      60.4915657043457
+    ]
+  },
+  "source": {
+    "path": "020-chibi-pet-tripo-reference.png",
+    "sha256": "cf868f8e9a37ded2b519ea214405f891cd51b2fbd0e0b2f8406be30db60d55c7"
+  }
+}
