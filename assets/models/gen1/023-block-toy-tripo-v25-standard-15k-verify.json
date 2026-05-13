@@ -1,0 +1,60 @@
+{
+  "dex": "023",
+  "ok": true,
+  "path": "023-block-toy-tripo-v25-standard-15k.glb",
+  "bytes": 657632,
+  "sha256": "d3491a4b437f391a583f7fce8065f987f857cbcd9d9552132e0ff6d1b61fbfd1",
+  "version": 2,
+  "declaredLength": 657632,
+  "chunks": [
+    {
+      "type": "JSON",
+      "bytes": 1652
+    },
+    {
+      "type": "BIN\u0000",
+      "bytes": 655952
+    }
+  ],
+  "binBytes": 655952,
+  "asset": {
+    "generator": "https://tripo3d.ai",
+    "version": "2.0"
+  },
+  "counts": {
+    "meshes": 1,
+    "primitives": 1,
+    "materials": 1,
+    "textures": 1,
+    "images": 1,
+    "embeddedImages": 1,
+    "externalImages": 0,
+    "textureSlots": 1,
+    "vertices": 9151,
+    "triangles": 15000
+  },
+  "checks": {
+    "validHeader": true,
+    "hasScene": true,
+    "hasMesh": true,
+    "hasMaterial": true,
+    "hasTexture": true,
+    "hasImage": true,
+    "hasEmbeddedOrExternalImage": true,
+    "hasVertices": true,
+    "hasTriangles": true
+  },
+  "primitives": [
+    {
+      "mesh": 0,
+      "primitive": 0,
+      "mode": 4,
+      "positionAccessor": 1,
+      "indexAccessor": 0,
+      "vertices": 9151,
+      "indices": 45000,
+      "triangles": 15000,
+      "material": 0
+    }
+  ]
+}
